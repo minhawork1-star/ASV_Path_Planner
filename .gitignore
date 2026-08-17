@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+# generated raw trajectory data (regenerable by running the script)
+*.npz
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
